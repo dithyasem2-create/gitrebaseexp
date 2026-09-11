@@ -1,0 +1,3 @@
+this is my first giut projects
+I am learning the git basics
+i have to make a modification it seems
