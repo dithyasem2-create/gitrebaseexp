@@ -1,2 +1,0 @@
-Project Name: M y Git Project
-Learning version control
